@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1698-bound-quickdeposit-amounts-to-the-stellar-int64",
+    "fix/issue-1759-make-withdraw-with-max-fee-bps-charge-the",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1698-bound-quickdeposit-amounts-to-the-stellar-int64": "main",
+    "fix/issue-1759-make-withdraw-with-max-fee-bps-charge-the": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1698-bound-quickdeposit-amounts-to-the-stellar-int64",
+    "fix/issue-1759-make-withdraw-with-max-fee-bps-charge-the",
+    "origin"
+  ]
+}
